@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/takiestu1/1iwuih/main/auto%20random.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/takiestu1/341/main/NIGHT_HUB_UPDATE2.lua"))()
